@@ -1,0 +1,25 @@
+body{
+background-color:#57FEFF;
+
+} 
+
+table, th, td {
+    border: 3px solid black;
+}
+
+h1{
+text-align: center;
+    color: red;
+}
+
+a {
+    color: hotpink;
+}
+
+h2{
+color: purple;
+}
+
+p{
+margin-left: 80px;
+}
